@@ -4,7 +4,7 @@
 
 ## 正在进行
 
-### [C++ 模板](https://github.com/yqZhang4480/TranslateBlogs/blob/master/CPP_Templates/目录.md)
+### [C++ 模板](CPP_Templates/目录.md)
 
 来源：http://www.modernescpp.com/index.php
 
